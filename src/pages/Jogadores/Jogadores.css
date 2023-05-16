@@ -1,0 +1,17 @@
+.jogadores {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.jogador {
+
+    width: 100%;
+    max-width: 210px;
+    min-width: 200px;
+    text-align: center;
+}
+
+.jogador .dropdown {
+    width: 100%;
+}
